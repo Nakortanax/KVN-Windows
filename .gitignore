@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+*.conf
+*.kvn
+*.env
+*.sqlite*
+*.key
+*.pem
+*.zip
+__pycache__/
